@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hello World title.md",
+                "file": "HelloWorld.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hello World title.md",
+                "file": "HelloWorld.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hello World title.md",
+                "file": "HelloWorld.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hello World title.md"
+                "file": "HelloWorld.md"
               }
             }
           }
@@ -164,6 +164,6 @@
   "lastOpenFiles": [
     "netlify.toml",
     "Welcome.md",
-    "Hello World title.md"
+    "HelloWorld.md"
   ]
 }
