@@ -22,12 +22,10 @@ This comes about from two very reasonable properties that we want to have:
 
 This leads us to
 $$
-f_{2}(x,y)\underbrace{ = }_{\text{ property 1 }}f(r)\underbrace{ = }_{\text{ property 2 }  }g(x)g(y)
+f_{2}(x,y) = f(r)= g(x)g(y)
 $$
-
-$g(\cdot )$ applies to both $x$ and $y$ because radial symmetry allows us to view $x$ and $y$ the same.
+and $g(\cdot )$ applies to both $x$ and $y$ because radial symmetry allows us to view $x$ and $y$ the same.
 
 Eventually (using the Herschel-Maxwell derivation), this leads us the $e^{-cr^{2}}$
 
 # How does this function connect to the Central Limit Theorem?
-
