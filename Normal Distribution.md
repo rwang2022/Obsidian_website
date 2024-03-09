@@ -6,5 +6,4 @@ Typically, a random variable $Y$ has a **normal probability distribution** if it
 $$
 f_{Y}(y)=\frac{1}{\sigma \sqrt{ 2\pi }}e^{-(y-\mu)^{2}/(2\sigma^{2})}
 $$
-
-what is going on 
+WHAT IS GOING ON 
