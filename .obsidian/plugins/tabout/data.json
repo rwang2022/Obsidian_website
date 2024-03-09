@@ -1,0 +1,38 @@
+{
+  "rules": [
+    {
+      "lookups": [
+        "*",
+        ")",
+        "\"",
+        "$",
+        "}",
+        "]",
+        "`"
+      ],
+      "tokenMatcher": "",
+      "jumpAfter": true
+    },
+    {
+      "lookups": [
+        "$"
+      ],
+      "tokenMatcher": "bracket_math",
+      "jumpAfter": true
+    },
+    {
+      "lookups": [
+        "*"
+      ],
+      "tokenMatcher": "em_list-1",
+      "jumpAfter": true
+    },
+    {
+      "lookups": [
+        "*"
+      ],
+      "tokenMatcher": "em_list-3",
+      "jumpAfter": true
+    }
+  ]
+}

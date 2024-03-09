@@ -1,5 +1,8 @@
 {
   "accentColor": "",
   "cssTheme": "Encore",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "styles"
+  ]
 }

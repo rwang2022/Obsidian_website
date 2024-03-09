@@ -1,0 +1,36 @@
+.cm-cursorLayer {
+    animation: none !important;
+}
+
+.markdown-source-view,
+.markdown-preview-view {
+    /* margin-left: 15%;
+    margin-right: 15%; */
+    /* these work well for laptop */
+    margin: auto;
+    min-width: 70%;
+    max-width: 7in;
+}
+
+.heatmap-calendar-boxes .today {
+    border: solid 1px rgb(135, 206, 250);
+}
+
+/* https://github.com/Richardsl/heatmap-calendar-obsidian/pull/73#issuecomment-1478800867 */
+
+.heatmap-calendar-boxes .hasData .heatmap-calendar-content {
+    display: none;
+}
+
+.heatmap-calendar-boxes .hasData:hover .heatmap-calendar-content {
+    background-color: #4b4b4b;
+    color: #fff;
+    display: block;
+    font-size: 0.75rem;
+    padding: 5px;
+    pointer-events: none;
+    position: absolute;
+    white-space: nowrap;
+    z-index: 1;
+    top: 10px;
+}

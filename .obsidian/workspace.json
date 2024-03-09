@@ -6,14 +6,15 @@
       {
         "id": "d01215cb564fb3e4",
         "type": "tabs",
+        "dimension": 65.29235382308846,
         "children": [
           {
-            "id": "582e55d41184f28e",
+            "id": "fa07a4509f53ab62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HelloWorld.md",
+                "file": "Normal Distribution.md",
                 "mode": "source",
                 "source": false
               }
@@ -24,6 +25,7 @@
       {
         "id": "ca4ea2d730c772e0",
         "type": "tabs",
+        "dimension": 34.707646176911545,
         "children": [
           {
             "id": "5a672d0a7308bf7b",
@@ -83,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 219.00260543823242
   },
   "right": {
     "id": "1e3d3c967064979f",
@@ -99,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HelloWorld.md",
+                "file": "Normal Distribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HelloWorld.md",
+                "file": "Normal Distribution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HelloWorld.md"
+                "file": "Normal Distribution.md"
               }
             }
           }
@@ -160,10 +162,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "582e55d41184f28e",
+  "active": "fa07a4509f53ab62",
   "lastOpenFiles": [
+    "HelloWorld.md",
+    "Normal Distribution.md",
+    "obsidian_plugins_configs/wordLists/math_words.txt",
+    "obsidian_plugins_configs/wordLists",
+    "obsidian_plugins_configs/latex_suite/math_formatting.txt",
+    "obsidian_plugins_configs/latex_suite/logic_sets_functions.txt",
+    "obsidian_plugins_configs/latex_suite/greek_letters.txt",
+    "obsidian_plugins_configs/latex_suite/general_formatting.txt",
+    "obsidian_plugins_configs/latex_suite/category_theory.txt",
+    "obsidian_plugins_configs/latex_suite",
+    "obsidian_plugins_configs",
     "netlify.toml",
-    "Welcome.md",
-    "HelloWorld.md"
+    "Welcome.md"
   ]
 }
