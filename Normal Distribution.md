@@ -7,8 +7,4 @@ $$
 f_{Y}(y)=\frac{1}{\sigma \sqrt{ 2\pi }}e^{-(y-\mu)^{2}/(2\sigma^{2})}
 $$
 
-% \f is defined as #1f(#2) using the macro
-\f\relax{x} = \int_{-\infty}^\infty
-    \f\hat\xi\,e^{2 \pi i \xi x}
-    \,d\xi
- 
+what is going on 
